@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "223333361832",
+    "firebase_url": "https://video-q-and-a.firebaseio.com",
+    "project_id": "video-q-and-a",
+    "storage_bucket": "video-q-and-a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223333361832:android:8e7cdfb3c77bae75",
+        "android_client_info": {
+          "package_name": "com.glitterlabs.videoqnaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223333361832-p9mdkfaiff9m7j5v4ha1u2gge3muh7qc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKa8eBbWOW-T6bbsgXS7R0Af2GV4UoAXs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
